@@ -1,0 +1,13 @@
+torch
+torchvision
+numpy
+scipy
+pillow
+pandas>=1.5.0
+matplotlib
+scikit-learn
+scikit-image
+fire
+kaggle>=1.5.16
+requests>=2.28.0
+numpy>=1.21.0
